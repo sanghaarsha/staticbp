@@ -1,0 +1,14 @@
+.test {
+    font-family: "Roboto", sans-serif;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    background: #555;
+}
+
+img {
+    display: block;
+    margin: auto;
+    height: 600px;
+    width: 600px;
+}
